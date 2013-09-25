@@ -2,5 +2,7 @@ build/
 bin/
 gen/
 out/
-facebook.iml
+*.iml
+.classpath
+.settings/
 
